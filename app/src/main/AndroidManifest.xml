@@ -10,16 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login">
         <activity
-            android:name=".LockScreenActivitiy"
+            android:name=".LockDesenScreen"
+            android:exported="false" />
+        <activity
+            android:name=".UserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Enes"
+            android:exported="false" />
+        <activity
+            android:name=".LockScreenActivity"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
             android:name=".HomeActivity"
-            android:exported="false" />
-        <activity
-            android:name=".LoginActivtiy"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

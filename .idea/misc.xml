@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_enes.xml" value="0.264" />
         <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_lock_screen.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_lock_desen_screen.xml" value="0.264" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_lock_screen.xml" value="0.264" />
         <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_log.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_son_lock_screen.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/activity_user.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/firno/AndroidStudioProjects/Login/app/src/main/res/layout/pattern_screen.xml" value="0.22604166666666667" />
       </map>
     </option>
